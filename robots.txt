@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cepelis.github.io/laprimeraveztemporada2veronline/sitemap.xml
